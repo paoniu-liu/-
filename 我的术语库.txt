@@ -1,0 +1,1045 @@
+工程结构|||building and civil engineering structures
+工程结构设计|||design of building and civil engineering structures
+房屋建筑工程|||building engineering
+土木工程|||civil engineering
+公路工程|||highway engineering
+铁路工程|||railway engineering
+港口与航道工程|||port and waterway engineering
+水利工程|||hydraulic engineering
+水利发电工程|||hydraulic and hydroelectric engineering
+水电工程|||hydraulic and hydroelectric engineering
+建筑物|||construction works
+构筑物|||construction works
+工程结构|||building and civil engineering structures
+工程结构设计|||design of building and civil engineering structures
+房屋建筑工程|||building engineering
+土木工程|||civil engineering
+公路工程|||highway engineering
+铁路工程|||railway engineering
+港口与航道工程|||port and waterway engineering
+水利工程|||hydraulic engineering
+水利发电工程|||hydraulic and hydroelectric engineering
+水电工程|||hydraulic and hydroelectric engineering
+建筑物|||construction works
+构筑物|||construction works
+结构|||structure
+基础|||foundation
+地基|||foundation soil
+木结构|||timber structure
+砌体结构|||masonry structure
+钢结构|||steel structure
+混凝土结构|||concrete structure
+特种工程结构|||special engineering structure
+房屋建筑|||building
+工业建筑|||industrial building
+民用建筑|||civil building
+公路|||highway
+公路网|||highway network
+高速公路|||freeway
+干线公路|||arterial highway
+支线公路|||feeder highway
+铁路|||railway
+标准轨距铁路|||standard gauge railway
+宽轨距铁路|||broad gauge railway
+窄轨距铁路|||narrow gauge railway
+铁路枢纽|||railway terminal
+铁路车站|||railway station
+港口|||port
+港口|||harbor
+港口水工建筑物|||marine structure
+通航建筑物|||navigation structure
+灯塔|||light house
+水利|||water conservancy
+水利枢纽|||multipurpose hydraulic project;
+水库|||reservoir
+水工建筑物|||hydraulic structure
+档水建筑物|||water retaining structure
+进水建筑物|||intake structure
+泄水建筑物|||outlet structure
+输水建筑物|||conveyance structure
+整治建筑物|||regulating structure
+水电站|||hydro-electric station
+水泵站|||pump station
+过木建筑物|||raft pass facility log pass facility
+过钿建筑物|||fish pass facility
+安全设施|||safety device
+工程量清单|||Bill of quantities
+混合结构|||mixed structure
+板柱结构|||slab-column system
+框架结构|||frame structure
+拱结构|||arch structure
+折板结构|||folded-plate structure
+壳体结构|||shell structure
+风架结构|||space truss structure
+悬索结构|||cable-suspended structure
+充气结构|||pneumatic structure
+剪力墙结构|||shear wall structure
+框架—剪力墙结构|||frame-shear wall structure
+筒体结构|||tube structure
+悬挂结构|||suspended structure
+高耸结构|||high-rise structure
+公路路线|||highway
+公路线形|||highway alignment
+平面线形|||horizontal alignment
+纵面线形|||vertical alignment
+公路选线|||route selection
+公路定线|||route location
+平面线|||horizontal curve
+竖曲线|||vertical curve
+变坡点|||grade change point
+路线交叉|||route intersection
+铁路线路|||permanent way
+铁路选线|||railway location
+铁路定线|||location
+正线|||main line
+站线|||sidings
+最小曲线半径|||minimum radius of curve
+坡段|||grade section
+最大坡度|||maximum grade
+平面交叉|||grade crossing
+立体交叉|||grade separation
+桥|||bridge
+简支梁桥|||simple supported girder bridge
+连续梁桥|||continuous girder bridge
+悬臂梁桥|||cantilever girder bridge
+斜拉桥|||cable stayed bridge
+悬索桥|||suspension bridge
+桁架桥|||trussed bridge
+框架桥|||frame bridge
+刚构桥|||rigid frame bridge
+拱桥|||arch bridge
+漫水桥|||submersible bridge
+浮桥|||pontoon bridge
+正交桥|||right bridge
+斜交桥|||skew bridge
+跨线桥|||grade separated bridge
+高架桥|||viaduct
+正桥|||main span
+引桥|||approach span
+弯桥|||curved bridge
+坡桥|||Ramp bridge
+公路铁路两用桥|||combined bridge
+开合桥|||movable bridge
+单线桥|||single-track bridge
+双线桥|||double-track bridge
+桥跨结构|||bridge superstructure
+桥面系|||bridge floor system
+桥支座|||bridge bearing
+桥下部结构|||bridge substructure
+索塔|||bridge tower
+桥台|||abutment
+桥墩|||pier
+涵洞|||culvert
+隧道|||tunnel
+隧道洞口|||tunnel portal
+隧道围岩|||tunnel surrounding rock
+隧道衬砌|||tunnel lining
+坝|||dam
+坝轴线|||dam axis
+重力坝|||gravity dam
+拱坝|||arch dam
+支墩坝|||buttress dam
+土石坝|||earth-rock dam
+混凝土坝|||concrete dam
+橡胶坝|||rubber dam
+丁坝|||spur dike
+顺坝|||training dike
+溢洪道|||spillway
+堰|||weir
+围堰|||coffer dam
+水工隧洞|||hydraulic tunnel
+深式进水口|||deep water intake
+堤坝式水电站|||dam type hydropower station
+引水式水电站|||diversion conduit type hydropower station
+潮汐电站|||tidal power station
+抽水蓄能电站|||pumped storage power station
+水电站厂房|||powerhouse of hydropower station
+前池|||forebay
+压力管道|||pressure conduit
+调压室|||surge chamber
+尾水渠|||tailrace
+船闸|||navigation lock
+升船机|||ship lift
+水闸|||sluice
+渠道|||casual
+渡槽|||aqueduct
+陡坡|||chute
+跌水|||drop
+坝内廊道系统|||gallery system
+消能防冲设施|||energy dissipating and anti-scour facility
+防渗设施|||seepage control facility
+排水设施|||drainage facility
+反滤设施|||reverse filter
+水轮泵站|||turbine-pump station
+水锤泵站|||ram station
+坝下埋管|||under dam culvert
+沉消池|||silting basin
+堤|||dike
+防波堤|||breakwater
+码头|||wharf
+斜坡码头|||sloped wharf
+墩式码头|||dolphin wharf
+重力式码头|||gravity quay-wall
+板桩码头|||sheet-pile quay-wall
+高桩码头|||open pier on piles
+浮码头|||floating pier
+船坞|||dock
+船台|||ship-building berth
+滑道|||slipway
+构件|||member
+部件|||component
+截面|||section
+梁|||beam
+拱|||arch
+板|||slab
+壳|||shell
+柱|||column
+墙|||wall
+桁架|||truss
+框架|||frame
+排架|||bent frame
+刚架|||rigid frame
+简支梁|||simply supported beam
+悬臂梁|||cantilever beam
+两端固定梁|||beam fixed at both ends
+连续梁|||continuous beam
+叠合梁|||superposed beam
+桩|||pile
+板桩|||sheet pile
+路面|||pavement
+行车道|||carriageway
+变速车道|||speed-change lane
+人行道|||sidewalk
+分隔带|||Lane separator
+自行车道|||bicycle path
+公路路肩|||road shoulder
+路基边沟|||subgrade side ditch
+截水沟|||catch ditch ;intercepting channel
+排水沟|||drainage ditch
+护坡|||slope protection
+挡土墙|||retaining wall
+铁路轨道|||railway track
+钢轨|||rail
+轨枕|||sleeper
+轨排|||track skeleton
+道床|||bed
+道碴|||ballast
+道岔|||turnout
+铁路调车驼峰|||railway shunting hump
+无缝线路|||continuous welded rail
+钢轨扣件|||rail fastening
+护轮轨|||guard rail
+铁路路肩|||railway shoulder
+码头胸墙|||wharf shoulder
+卸荷板|||relieving slab
+靠船构件|||berthing member
+系船柱|||mooring post bollard
+系船环|||mooring ring
+闸室|||sluice chamber
+闸门|||sluice gate
+闸墩|||sluice pier
+护坦|||apron
+海漫|||apron extension
+消能池|||stilling basin
+消能戽|||roller bucket
+防渗铺盖|||apron
+防渗帷幕|||impervious curtain
+止水|||sealing 
+连接|||connection
+节点|||joint
+伸缩缝|||expansion and contraction joint
+沉降缝|||settlement joint
+防震缝|||aseismic joint
+施工缝|||construction joint
+扩展基础|||spread foundation
+刚性基础|||rigid foundation
+独立基础|||single footing
+联合基础|||combined footing
+条形基础|||strip foundation
+壳体基础|||shell foundation
+箱形基础|||box foundation
+筏形基础|||raft foundation
+桩基础|||pile foundation
+沉井基础|||open caisson foundation
+管柱基础|||cylinder pile foundation 
+沉箱基础|||caisson foundation
+路基|||subgrade of highway 
+基床|||bed 
+可靠性|||reliability
+安全性|||safety
+适用性|||serviceability
+耐久性|||durability
+基本变量|||basic variable
+设计基准期|||design reference period
+可靠概率|||probability of survival
+失效概率|||probability of failure
+可靠指标|||reliability index
+校准法|||calibration
+定值设计法|||deterministic method
+概率设计法|||probabilistic method
+破坏强度设计法|||ultimate strength method
+极限状态设计法|||limit states method
+极限状态|||limit states
+极限状态方程|||limit state equation
+承载能力极限状态|||ultimate limit states
+正常使用极限状态|||serviceability limit states
+分项系数|||partial safety factor
+设计状况|||design situation
+持久状况|||persistent situation
+短暂状况|||transient situation
+偶然状况|||accidental situation
+作用|||action
+荷载|||load
+线分布力|||force per unit length
+面分布力|||force per unit area
+体分布力|||force per unit volume
+力矩|||moment of force
+永久作用|||permanent action
+可变作用|||variable action
+偶然作用|||accidental action
+固定作用|||fixed action
+自由作用.|||Free action
+静态作用|||static action
+动态作用|||dynamic action
+多次重复作用|||repeated action
+低周反复作用|||low frequency cyclic action
+自重|||self weight
+施工荷载|||site load
+土压力|||earth pressure
+温度作用|||temperature action
+地震作用|||earthquake action
+爆炸作用|||explosion action
+风荷载|||wind load
+风振|||wind vibration
+雪荷载|||snow load
+吊车荷载|||crane load
+楼面、屋面活荷载|||floor live load
+桥荷载|||load on bridge
+桥恒荷载|||dead load on bridge
+桥活荷载|||live load on bridge
+公路车辆荷载标准|||Standard highway vehicle load
+中国铁路标准活载|||Standard Railway Live Load
+船舶荷载|||ship load
+起重运输机械荷载|||crane and vehicle load
+船舶撞击力|||ship impact force
+船舶挤靠力|||ship breasting force
+船舶系缆力|||mooring force
+水压力|||water pressure
+浮力|||buoyance
+扬压力|||uplift pressure
+浪压力|||wave pressure
+冰压力|||ice pressure
+泥沙压力|||silt pressure
+冻胀力|||frost heave force
+作用代表值|||representative value of an action
+作用标准值|||characteristic value of an action
+作用准永久值|||quasi-permanent value of an action
+作用组合值|||combination value of actions
+作用分项系数|||partial safety factor for action
+作用设计值|||design value of an action
+作用组合值系数|||coefficient for combination value of actions
+作用效应|||effects of actions
+作用效应系数|||coefficient of effects of actions
+轴向力|||normal force
+剪力|||shear force
+弯矩|||bending moment
+双弯矩|||binomen
+扭矩|||torque
+应力|||stress
+正应力|||normal stress
+剪应力|||shear stress
+主应力|||principal stress
+预应力|||prestress
+位移|||displacement
+挠度|||deflection
+变形|||deformation
+弹性变形|||elastic deformation
+塑性变形|||plastic deformation
+外加变形|||imposed deformation
+约束变形|||restrained deformation
+应变|||strain
+线应变|||linear strain
+剪应变|||shear strain
+主应变|||principal strain
+作用效应组合|||combination for action effects
+作用效应基本组合|||fundamental combination for action effects
+作用效应偶然组合|||accidental combination for action effects
+短期效应组合|||combination for short-term action effects
+长期效应组合|||combination for long-term action effects
+设计限值|||limiting design value
+抗力|||resistance
+强度|||strength
+抗压强度|||compressive strength
+抗拉强度|||tensile strength
+抗剪强度|||shear strength
+抗弯强度|||flexural strength
+屈服强度|||yield strength
+疲劳强度|||fatigue strength
+极限应变|||ultimate strain
+弹性模量|||modulus of elasticity
+.剪变模量|||shear modulus
+变形模量|||modulus of deformation
+泊松比|||Poisson ratio
+承载能力|||bearing capacity
+受压承载能力|||compressive capacity
+受拉承载能力|||tensile capacity
+受剪承载能力|||shear capacity
+受弯承载能力|||flexural capacity
+受扭承载能力|||torsional capacity
+疲劳承载能力|||fatigue capacity
+刚度|||stiffness
+抗裂度|||crack resistance
+极限变形|||ultimate deformation
+稳定性|||stability
+空间工作性能|||spatial behavior
+脆性破坏|||brittle failure
+延性破坏|||ductile failure
+抗力分项系数|||partial safety factor for resistance
+材料性能标准值|||characteristic value of a property of a material
+材料性能分项系数|||partial safety factor for property of material
+材料性能设计值|||design value of a property of a material
+几何参数标准值|||nominal value of geometric parameter
+截面高度|||height of section
+截面宽度|||breadth of section
+截面厚度|||thickness of section
+截面直径|||diameter of section
+截面周长|||perimeter of section
+截面面积|||area of section
+截面面积矩|||first moment of area
+截面惯性矩|||second moment of area
+截面极惯性矩|||polar second moment of area
+截面模量|||section modulus
+截面回转半径|||radius of gyration
+偏心矩|||eccentricity
+偏心率|||relative eccentricity
+长度|||length
+跨度|||span
+矢高|||rise
+长细比|||slenderness ratio
+纵坡|||longitudinal gradient
+超高|||superelevation
+视距|||sight distance
+路面宽度|||width of subgrade
+路基宽度|||width of subgrade
+公路建筑限界|||clearance of highway
+轨矩|||gauge
+铁路建筑限界|||railroad clearance
+桥下净空|||clearance under bridge
+桥建筑高度|||construction height of bridge
+桥建筑限界|||clearance above bridge floor
+隧道建筑限界|||clearance of tunnel
+泊位|||berth
+富余水深|||additional depth
+波浪要素|||wave characteristics
+潮位|||tide level
+水位|||water level
+设计水位|||design water level
+坝高|||dam height
+坝长|||dam length
+安全超高|||free board
+水库死水位|||dead water level
+水库设计洪水位|||design flood level
+水库校长核洪水位|||exceptional flood level
+水库死库容|||dead storage
+水库兴利库容|||usable storage
+磨擦系数|||coefficient of friction
+质量密度|||mass density
+动量矩|||moment of momentum
+转动惯量|||dynamic moment of inertia
+动作用系数|||dynamic effect factor
+振动|||vibration
+加速度|||acceleration
+频率|||frequency
+自振频率|||natural frequency
+周期|||period
+自振周期|||natural period of vibration
+周期振动|||periodic vibration
+振幅|||amplitude of vibration
+自由度|||degree of freedom
+阻尼|||damp
+强迫振动|||forced vibration
+振型|||mode of vibration
+共振|||resonance
+统计参数|||statistical parameter
+平均值|||mean value
+方差|||mean square deviation
+标准差|||standard deviation
+均值系数|||coefficient of mean value
+变异系数|||coefficient of variation
+概率分布|||probability distribution
+分位数|||quantile
+显著性水平|||significance level
+静水压强|||hydro-static pressure
+动水压强|||hydro-dynamic pressure
+静水总压力|||total hydro-static pressure
+容许应力设计法|||permissible stresses method
+水库设计蓄水位|||normal level
+水库总库容|||total reservoir storage
+重力密度|||force density
+压力梯度|||pressure gradient
+压力水头|||pressure head
+位置水头|||level head
+流畅|||stream field
+流线|||stream field
+流速|||velocity of flow
+流速水头|||velocity head of flow
+总水头|||total head
+水头损失|||head loss
+过水断面|||discharge cross section
+湿周|||wetted perimeter
+水力半径|||hydraulic radius
+流量|||discharge
+糙率|||coefficient of roughness
+水力坡度|||hydraulic slope
+雷诺数|||Reynolds number
+弗汝德数|||Froude number
+水锤|||water hammer
+水跃|||hydraulic jump
+渗流|||seepage flow
+压缩系数|||coefficient of compressibility
+内聚力|||cohesion
+固结系数|||coefficient of consolidation
+相对密度|||relative density
+密实度|||compactness
+压缩模量|||modulus of compressibility
+孔隙比|||porosity
+孔隙率|||porosity
+液性指数|||liquidity index
+塑性指数|||plasticity
+渗透系数|||degree of saturation
+饱和度|||degree of saturation
+固结度|||degree of consolidation
+孔隙水压力|||pore water pressure
+含水量|||water content
+液限|||liquid limit
+塑限|||plastic limit
+休止角|||angle of repose
+外磨擦角|||angle of external friction
+内摩擦角|||angle of internal friction
+地震|||earthquake
+震源|||earthquake focus
+震中|||earthquake epicenter
+震中距|||epicentral distance
+地震震级|||earthquake magnitude
+地震烈度|||earthquake intensity
+反应谱|||earthquake response spectrum
+静力法|||static method
+底部剪力法|||equivalent base shear method
+时程分析法|||time-history method
+振型分解法|||mode analysis method
+地震动水压力|||earthquake dynamic water pressure
+地震动土压力|||earthquake dynamic earth pressure
+砂土液化|||Liquefaction of saturated soil
+工程结构|||building and civil engineering structures
+工程结构设计|||design of building and civil engineering structures
+房屋建筑工程|||building engineering
+土木工程|||civil engineering
+公路工程|||highway engineering
+铁路工程|||railway engineering
+水利工程|||hydraulic engineering
+水利发电工程|||hydraulic and hydroelectric engineering
+建筑物|||construction works
+结构|||structure
+基础|||foundation
+地基|||foundation soil
+木结构|||timber structure
+砌体结构|||masonry structure
+钢结构|||steel structure
+混凝土结构|||concrete structure
+特种工程结构|||special engineering structure
+房屋建筑|||building
+工业建筑|||industrial building
+公路|||highway
+公路网|||highway network
+高速公路|||freeway
+干线公路|||arterial highway
+支线公路|||feeder highway
+铁路|||railway
+标准轨距铁路|||standard gauge railway
+宽轨距铁路|||broad gauge railway
+窄轨距铁路|||narrow gauge railway
+铁路枢纽|||railway terminal
+铁路车站|||railway station
+港口|||port
+港口水工建筑物|||marine structure
+通航建筑物|||navigation structure
+灯塔|||light house
+水利|||water conservancy
+水利枢纽|||multipurpose hydraulic project
+水库|||reservoir
+水工建筑物|||hydraulic structure
+档水建筑物|||water retaining structure
+进水建筑物|||intake structure
+泄水建筑物|||outlet structure
+输水建筑物|||conveyance structure
+整治建筑物|||rcgulating structure
+水电站|||hydro-electric station 
+水泵站|||pump station
+过木建筑物|||raftpass facility log pass facility
+过钿建筑物|||fishpass facility
+安全设施|||safety device
+工程量清单|||Bill of quantities
+混合结构|||mixed structure
+板柱结构|||slab-column system
+框架结构|||frame structure
+拱结构|||arch structure
+壳体结构|||shell structure
+风架结构|||space truss structure
+悬索结构|||cable-suspended structure
+充气结构|||pneumatic structure
+剪力墙结构|||shear wall structure
+框架—剪力墙结构|||frame-shear wall structure
+筒体结构|||tube structure
+悬挂结构|||suspended structure
+高耸结构|||high-rise structure
+公路路线|||highway
+公路线形|||highway alignment
+平面线形|||horizontal alignment
+纵面线形|||vertical alignment
+公路选线|||route selection
+公路定线|||route location
+平面线|||horizontal curve
+竖曲线|||vertical curve
+变坡点|||grade change point
+路线交叉|||route intersection
+铁路线路|||permanent way
+铁路选线|||railway location
+铁路定线|||location
+正线|||main line
+站线|||sidings
+最小曲线半径|||minimum radius of curve
+坡段|||grade section
+最大坡度|||maximum grade
+平面交叉|||grade crossing
+立体交叉|||grade separation
+桥|||bridge
+简支梁桥|||simple supported girder bridge
+连续梁桥|||continuous girder bridge
+悬臂梁桥|||cantilever girder bridge
+斜拉桥|||cable stayed bridge
+悬索桥|||suspension bridge
+桁架桥|||trussed bridge
+框架桥|||frame bridge
+刚构桥|||rigid frame bridge
+拱桥|||arch bridge
+漫水桥|||submersible bridge
+浮桥|||pontoon bridge
+正交桥|||right bridge
+斜交桥|||skew bridge
+高架桥|||viaduct
+正桥|||main span
+引桥|||approach span
+弯桥|||curved bridge
+坡桥|||Ramp bridge
+开合桥|||movable bridge
+单线桥|||single-track bridge
+双线桥|||double-track bridge
+桥跨结构|||bridge superstructure
+桥面系|||bridge floor system
+桥支座|||bridge bearing
+索塔|||bridge tower
+桥台|||abutment
+桥墩|||pier
+涵洞|||culvert
+隧道|||tunnel
+隧道洞口|||tunnel portal
+隧道围岩|||tunnel surrounding rock
+隧道衬砌|||tunnel lining
+坝|||dam
+坝轴线|||dam axis
+重力坝|||gravity dam
+拱坝|||arch dam
+支墩坝|||buttress dam
+土石坝|||earth-rock dam
+混凝土坝|||concrete dam
+橡胶坝|||rubber dam 
+丁坝|||spur dike 
+顺坝|||training dike
+溢洪道|||spillway
+堰|||weir
+围堰|||coffer dam
+水工隧洞|||hydraulic tunnel
+深式进水口|||deep water intake
+堤坝式水电站|||dam type hydropower station
+引水式水电站|||diversion conduit type hydropower staion
+潮汐电站|||tidal power station
+抽水蓄能电站|||pumped storage power station
+水电站厂房|||powerhouse of hydropower station
+前池|||forebay
+压力管道|||pressure nconduit
+调压室|||surge chamber
+尾水渠|||tailrace
+船闸|||navigation lock
+升船机|||ship lift
+水闸|||sluice 
+渠道|||casual
+渡槽|||aqueduct
+陡坡|||chute
+跌水|||drop
+坝内廊道系统|||gallery system
+消能防冲设施|||energy dissipating and anti-scour facility
+防渗设施|||seepage control facility
+排水设施|||drainage facility
+反滤设施|||reverse filter
+水轮泵站|||turbine-pump station
+水锤泵站|||ram station
+坝下埋管|||under dam culvert
+沉消池|||silting basin
+堤|||dike
+防波堤|||breakwater 
+码头|||wharf
+斜坡码头|||sloped wharf
+墩式码头|||dolphin wharf
+重力式码头|||gravity quay-wall
+板桩码头|||sheet-pile quay-wall
+高桩码头|||open pier on piles 
+浮码头|||floating pier 
+船坞|||dock
+船台|||ship-building berth
+滑道|||slipway
+构件|||member
+部件|||component
+截面|||section
+梁|||beam 
+拱|||arch
+板|||slab 
+壳|||shell
+柱|||column
+墙|||wall
+桁架|||truss
+框架|||frame
+排架|||bent frame
+刚架|||rigid frame
+简支梁|||simply supported beam
+悬臂梁|||cantilever beam
+两端固定梁|||beam fixed at both ends
+连续梁|||continuous beam
+叠合梁|||superposed beam
+桩|||pile
+板桩|||sheet pile
+路面|||pavement
+行车道|||carriageway
+变速车道|||speed-change lane
+人行道|||sidewalk
+分隔带|||Lane separator
+自行车道|||bicycle path
+公路路肩|||road shoulder
+路基边沟|||subgrade side ditch
+截水沟|||catch ditch ;intercepting channel
+排水沟|||drainage ditch
+平均流速|||average velocity
+地震区|||earthquake zone
+港口与航道工程|||port and waterway engineering
+护坡|||slope protection
+挡土墙|||retaining wall
+铁路轨道|||railway track
+钢轨|||rail
+轨枕|||sleeper
+轨排|||track skeleton
+道床|||bed
+道碴|||ballast
+道岔|||turnout
+铁路调车驼峰|||railway shunting hump
+无缝线路|||continuous welded rail
+钢轨扣件|||rail fastening
+护轮轨|||guard rail
+铁路路肩|||railway shoulder
+码头胸墙|||wharf shoulder
+卸荷板|||relieving slab
+靠船构件|||berthing member
+系船柱|||mooring post bollard
+系船环|||mooring ring
+闸室|||sluice chamber.
+闸门|||sluice gate
+闸墩|||sluice pier
+护坦|||apron
+海漫|||apron extension
+消能池|||stilling basin
+消能戽|||roller bucket
+防渗铺盖|||apron
+防渗帷幕|||impervious curtain
+止水|||sealing
+连接|||connection
+节点|||joint
+伸缩缝|||expansion and contraction joint
+沉降缝|||settlement joint
+防震缝|||aseismic joint
+施工缝|||construction joint
+扩展基础|||spread foundation
+刚性基础|||rigid foundation
+独立基础|||single footing
+联合基础|||combined footing
+条形基础|||strip foundation
+壳体基础|||shell foundation
+箱形基础|||box foundation
+筏形基础|||raft foundation
+桩基础|||pile foundation
+沉井基础|||open caisson foundation
+管柱基础|||cylinder pile foundation
+沉箱基础|||caisson foundation
+路基|||subgrade of highway 
+基床|||bed
+可靠性|||reliability
+安全性|||safety
+适用性|||serviceability
+耐久性|||durability
+基本变量|||basic variable
+设计基准期|||design reference period
+可靠概率|||probability of survival
+失效概率|||probability of failure
+可靠指标|||reliability index
+校准法|||calibration
+定值设计法|||deterministic method
+概率设计法|||probabilistic method
+破坏强度设计法|||ultimate strength method
+极限状态设计法|||limit states method
+极限状态|||limit states
+极限状态方程|||limit state equation
+承载能力极限状态|||ultimate limit states
+正常使用极限状态|||serviceability limit states
+分项系数|||partial safety factor
+设计状况|||design situation
+持久状况|||persistent situation
+短暂状况|||transient situation
+偶然状况|||accidental situation
+作用|||action
+荷载|||load
+线分布力|||force per unit length
+面分布力|||force per unit area
+体分布力|||force per unit volume
+力矩|||moment of force
+永久作用|||permanent action
+可变作用|||variable action
+偶然作用|||accidental action
+固定作用|||fixed action
+自由作用.|||Free action
+静态作用|||static action
+动态作用|||dynamic action
+多次重复作用|||repeated action
+低周反复作用|||low frequency cyclic action
+自重|||self-weight
+施工荷载|||site load
+土压力|||earth pressure
+温度作用|||temperature action
+地震作用|||earthquake action
+爆炸作用|||explosion action
+风荷载|||wind load
+风振|||wind vibration
+雪荷载|||snow load
+吊车荷载|||crane load
+桥荷载|||load on bridge
+桥恒荷载|||dead load on bridge
+桥活荷载|||live load on bridge
+公路车辆荷载标准|||Standard highway vehicle load
+中国铁路标准活载|||Standard Railway Live Load
+船舶荷载|||ship load
+起重运输机械荷载|||crane and vehicle load
+船舶撞击力|||ship impact force
+船舶挤靠力|||ship breasting force
+船舶系缆力|||mooring force
+水压力|||water pressure
+浮力|||buoyance
+扬压力|||uplift pressure
+浪压力|||wave pressure 
+冰压力|||ice pressure
+泥沙压力|||silt pressure
+冻胀力|||frost heave force
+作用代表值|||representative value of an action
+作用标准值|||characteristic value of an action
+作用准永久值|||quasi-permanent value of an action
+作用组合值|||combination value of actions
+作用分项系数|||partial safety factor for action
+作用设计值|||design value of an action
+作用组合值系数|||coefficient for combination value of actions
+作用效应|||effects of actions
+作用效应系数|||coefficient of effects of actions
+轴向力|||normal force
+剪力|||shear force
+弯矩|||bending moment
+双弯矩|||bi-moment
+扭矩|||torque
+应力|||stress
+正应力|||normal stress
+剪应力|||shear stress
+主应力|||principal stress
+预应力|||prestress
+位移|||displacement
+挠度|||deflection
+变形|||deformation
+弹性变形|||elastic deformation
+塑性变形|||plastic deformation
+外加变形|||imposed deformation
+约束变形|||restrained deformation
+应变|||strain
+线应变|||linear strain
+剪应变|||shear strain
+主应变|||principal strain
+作用效应组合|||combination for action effects
+作用效应基本组合|||fundamental combination for action effects
+作用效应偶然组合|||accidental combination for action effects
+短期效应组合|||combination for short-term action effects
+长期效应组合|||combination for long-term action effects
+设计限值|||limiting design value
+抗力|||resistance
+强度|||strength
+抗压强度|||compressive strength
+抗拉强度|||tensile strength
+抗剪强度|||shear strength
+抗弯强度|||flexural strength
+屈服强度|||yield strength
+疲劳强度|||fatigue strength
+极限应变|||ultimate strain
+弹性模量|||modulus of elasticity
+.剪变模量|||shear modulus
+变形模量|||modulus of deformation
+泊松比|||Poisson ratio
+承载能力|||bearing capacity
+受压承载能力|||compressive capacity
+受拉承载能力|||tensile capacity
+受剪承载能力|||shear capacity
+受弯承载能力|||flexural capacity
+受扭承载能力|||torsional capacity
+疲劳承载能力|||fatigue capacity
+刚度|||stiffness
+抗裂度|||crack resistance
+极限变形|||ultimate deformation
+稳定性|||stability
+空间工作性能|||spatial behavior
+脆性破坏|||brittle failure
+延性破坏|||ductile failure
+抗力分项系数|||partial safety factor for resistance
+材料性能标准值|||characteristic value of a property of a material
+材料性能分项系数|||partial safety factor for property of material
+材料性能设计值|||design value of a property of a material
+几何参数标准值|||nominal value of geometric parameter
+截面高度|||height of section
+截面宽度|||breadth of section
+截面厚度|||thickness of section
+截面直径|||diameter of section
+截面周长|||perimeter of section
+截面面积|||area of section
+截面面积矩|||first moment of area
+截面惯性矩|||second moment of area 
+截面极惯性矩|||polar second moment of area 
+截面模量|||section modulus
+截面回转半径|||radius of gyration
+偏心矩|||eccentricity
+偏心率|||relative eccentricity
+长度|||length
+跨度|||span
+矢高|||rise
+长细比|||slenderness ratio
+纵坡|||longitudinal gradient
+超高|||superelevation
+视距|||sight distance
+路面宽度|||width of subgrade
+路基宽度|||width of subgrade
+公路建筑限界|||clearance of highway
+轨矩|||gauge
+铁路建筑限界|||railroad clearance
+桥下净空|||clearance under bridge
+桥建筑高度|||construction height of bridge
+桥建筑限界|||clearance above bridge floor
+隧道建筑限界|||clearance of tunnel
+泊位|||berth
+富余水深|||additional depth 
+波浪要素|||wave characteristics 
+潮位|||tide level
+水位|||water level
+设计水位|||design water level
+坝高|||dam height
+坝长|||dam length
+安全超高|||free board
+水库设计洪水位|||design flood level
+水库校长核洪水位|||exceptional flood level
+水库死库容|||dead storage
+水库兴利库容|||usable storage
+磨擦系数|||coefficient of friction
+质量密度|||mass density
+动量矩|||moment of momentum
+转动惯量|||dynamic moment of inertia
+动作用系数|||dynamic effect factor
+振动|||vibration
+加速度|||acceleration
+频率|||frequency
+自振频率|||natural frequency
+周期|||period
+自振周期|||natural period of vibration
+周期振动|||periodic vibration
+振幅|||amplitude of vibration
+自由度|||degree of freedom
+阻尼|||damp
+强迫振动|||forced vibration
+振型|||mode of vibration
+共振|||resonance
+统计参数|||statistical parameter
+平均值|||mean value
+方差|||mean square deviation
+标准差|||standard deviation
+均值系数|||coefficient of mean value
+变异系数|||coefficient of variation
+概率分布|||probability distribution
+分位数|||fractile
+显著性水平|||significance level
+静水压强|||hydro-static pressure
+动水压强|||hydro-dynamic pressure
+静水总压力|||total hydro-static pressure
+压力梯度|||pressure gradient
+压力水头|||pressure head
+位置水头|||level head
+流畅|||stream field
+流线|||stream field
+流速|||velocity of flow
+流速水头|||velocity head of flow
+总水头|||total head
+水头损失|||head loss
+过水断面|||discharge cross section
+湿周|||wetted perimeter
+水力半径|||hydraulic radius
+流量|||discharge平均流速average velocity
+糙率|||coefficient of roughness
+水力坡度|||hydraulic slope
+雷诺数|||Reynolds number
+弗汝德数|||Froude number
+水锤|||water hammer
+水跃|||hydraulic jump
+渗流|||seepage flow
+压缩系数|||coefficient of compressibility
+内聚力|||cohesion
+粘聚力|||cohesion
+固结系数|||coefficient of consolidation
+相对密度|||relative density
+密实度|||compactness
+压缩模量|||modulus of compressibility
+孔隙比|||porosity
+孔隙率|||porosity
+液性指数|||liquidity index
+塑性指数|||plasticity
+渗透系数|||degree of saturation
+饱和度|||degree of saturation
+固结度|||degree of consolidation
+孔隙水压力|||pore water pressure
+含水量|||water content
+液限|||liquid limit
+塑限|||plastic limit
+休止角|||angle of repose
+外磨擦角|||angle of external friction
+内摩擦角|||angle of internal friction
+地震|||earthquake
+震源|||earthquake focus
+震中|||earthquake epicenter
+震中距|||epicentral distance
+地震震级|||earthquake magnitude
+地震烈度|||earthquake intensity
+反应谱|||earthquake response spectrum
+静力法|||static method
+时程分析法|||time-history method
+振型分解法|||mode analysis method
+地震动水压力|||earthquake dynamic water pressure
+地震动土压力|||earthquake dynamic earth pressure
+砂土液化|||Liquefaction of saturated soil
+容许应力设计法|||permissible stresses method
+水库设计蓄水位|||normal level
+重力密度|||force density
+底部剪力法|||equivalent base shear method
+水库总库容|||total reservoir storage
